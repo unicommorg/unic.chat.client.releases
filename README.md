@@ -1,2 +1,2 @@
-# unic.chat.mobile.release
+# unic.chat.client.release
 Версии клиентских приложений UnicChat
